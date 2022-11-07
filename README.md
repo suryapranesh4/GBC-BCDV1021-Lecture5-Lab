@@ -1,10 +1,10 @@
-George Brown College - Blockchain Development T175
+# React Components and Props
 
-BCDV1021 - Frontend || FullStack - 1
+React application using props
 
-Lecture 5 - Lab
+#### Instructions : 
 
-Git Clone : https://github.com/suryapranesh4/GBC-BCDV1021-Lecture5-Lab.git <br/>
-cd my-app <br/>
+git clone https://github.com/suryapranesh4/React-Components.git <br/>
+cd React-Components <br/>
 npm install <br/>
 npm start <br/>
